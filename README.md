@@ -3,6 +3,9 @@
 
 
 
-upload labelled images in images 
+upload labelled images in both images and valid images 
 
-and labels in annotations                PEOPLE
+and labels in annotations and valid annotations
+          
+            
+                          PEOPLE
